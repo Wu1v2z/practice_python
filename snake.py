@@ -1,5 +1,6 @@
 import pygame
 import time
+import random
 
 pygame.init()
 
@@ -23,6 +24,13 @@ def game_loop() :
 
     x1_change = 0
     y1_change = 0
+
+    snake_block = 10
+    snake_list = []
+    length_of_snake = 1
+
+    foodx = round(random.randrange(0, dis_width - snake_block) / 10.0) * 10.0
+    foody = round(random.randrange(0, dis_height - snake_block) / 10.0) * 10.0
 
     while not game_over:
         for event in pygame.event.get():
