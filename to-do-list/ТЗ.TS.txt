@@ -1,0 +1,29 @@
+	UA:
+
+	ДЛЯ ЧОГО? :
+ Текстовий документ створенний для розпису технічного завдання для написання коду програми "To-Do-List".
+В ньому будуть описані ключові функції та можливості,що повинні міститися в програмі для правильного функціонування
+та базового розуміння структури написання коду.
+
+	ОСНОВНІ ФУНКЦІЇ :
+
+1 - Запис завдання та подій для виконання (дата, термін виконання, задача)
+2 - Відслідковування виконання цих завдань (відтермінування, позначка про виконяння, нагадування і ін.)
+3 - Збереження історії виконаних завдань (рахунок виконаних,невиконаних та відмінених завдань)
+4 - Встановлення пріоритетності завданням (повсякденне,важливе,темінове)
+
+
+	EN:
+
+	WHAT FOR? :
+ A text document created to describe the technical specifications for writing the code for the “To-Do-List” program.
+It will describe the key functions and features that must be included in the program for it to function properly
+and provide a basic understanding of the structure of the code.
+
+	MAIN FUNCTIONS:
+
+1 - Recording tasks and events to be performed (date, deadline, task)
+2 - Tracking the completion of these tasks (postponement, completion mark, reminders, etc.)
+3 - Saving the history of completed tasks (count of completed, uncompleted, and canceled tasks)
+4 - Setting task priorities (daily, important, urgent)
+
