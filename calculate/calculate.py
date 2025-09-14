@@ -10,6 +10,9 @@ elif Operation == '*' :
     print(Num_1, ' * ', Num_2, ' = ', Num_1 * Num_2)     
 elif Operation == '/' :
     print(Num_1, ' / ', Num_2, ' = ', Num_1 / Num_2)  
+elif Operation == 'sqrt':
+    chose = input('Chose the number: ')
+    if chose == '1'
 else:
     print('Not realised') 
 
