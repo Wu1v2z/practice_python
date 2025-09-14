@@ -6,4 +6,6 @@ if Operation == + :
     print(Num_1, ' + ', Num_2, ' = ', Num_1 + Num_2)     
 elif Operation == - :
     print(Num_1, ' - ', Num_2, ' = ', Num_1 - Num_2)     
+elif Operation == * :
+    print(Num_1, ' * ', Num_2, ' = ', Num_1 * Num_2)     
 
