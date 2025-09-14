@@ -2,14 +2,14 @@ Num_1 = float(input('Enter first number: '))
 Num_2 = float(input('Enter second number: '))
 Operation = input('Enter the operation: ')
 
-if Operation == + :
+if Operation == '+' :
     print(Num_1, ' + ', Num_2, ' = ', Num_1 + Num_2)     
-elif Operation == - :
+elif Operation == '-' :
     print(Num_1, ' - ', Num_2, ' = ', Num_1 - Num_2)     
-elif Operation == * :
+elif Operation == '*' :
     print(Num_1, ' * ', Num_2, ' = ', Num_1 * Num_2)     
-elif Operation == / :
+elif Operation == '/' :
     print(Num_1, ' / ', Num_2, ' = ', Num_1 / Num_2)  
 else:
-    print  
+    print('Not realised') 
 
