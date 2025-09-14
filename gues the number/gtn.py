@@ -1,6 +1,4 @@
 import random
-import sys
-import time 
 
 
 num = random.randint(1.0, 100.0)
@@ -15,3 +13,4 @@ while True:
         print('Number is bigger')
     else :
         print('You are winner!') 
+        break
