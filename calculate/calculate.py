@@ -16,7 +16,12 @@ elif Operation == 'sqrt':
         print('Sqrt of', Num_1, '=', Num_1 ** 0.5)
     if chose == '2':
         print('Sqrt of', Num_2, '=', Num_2 ** 0.5)
-
 else:
     print('Not realised') 
+
+
+print('Thanks for your used my penis')
+
+
+
 
