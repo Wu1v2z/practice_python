@@ -17,7 +17,9 @@ while True:
     except ValueError:
         print('Невірний тип даних')
 
+
 Operation = input('Enter the operation: ')
+
 
 if Operation == '+' :
     print(Num_1, ' + ', Num_2, ' = ', Num_1 + Num_2)     
