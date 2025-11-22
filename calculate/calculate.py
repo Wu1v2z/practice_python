@@ -1,14 +1,15 @@
-try:
-    Num_1 = float(input('Enter first number: '))
-    print('Your first number is - ', Num_1)
-except ValueError:
-    print('Невірний тип даних')
-
-try:
-    Num_2 = float(input('Enter second number: '))
-    print('Your second number is - ', Num_2)
-except ValueError:
-    print('Невірний тип даних')
+while True:
+    try:
+        Num_1 = float(input('Enter first number: '))
+        print('Your first number is - ', Num_1)
+    except ValueError:
+        print('Невірний тип даних')
+while True:
+    try:
+        Num_2 = float(input('Enter second number: '))
+        print('Your second number is - ', Num_2)
+    except ValueError:
+        print('Невірний тип даних')
 
 Operation = input('Enter the operation: ')
 
