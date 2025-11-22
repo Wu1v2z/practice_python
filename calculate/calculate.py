@@ -4,6 +4,8 @@ while True:
         print('Your first number is - ', Num_1)
     except ValueError:
         print('Невірний тип даних')
+
+        
 while True:
     try:
         Num_2 = float(input('Enter second number: '))
