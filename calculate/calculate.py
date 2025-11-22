@@ -7,7 +7,8 @@ except ValueError:
 try:
     Num_2 = float(input('Enter second number: '))
     print('Your second number is - ', Num_2)
-except
+except ValueError:
+    print('Невірний тип даних')
 
 Operation = input('Enter the operation: ')
 
