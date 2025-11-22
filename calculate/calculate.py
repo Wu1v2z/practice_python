@@ -1,5 +1,13 @@
-Num_1 = float(input('Enter first number: '))
-Num_2 = float(input('Enter second number: '))
+try:
+    Num_1 = float(input('Enter first number: '))
+    print('Your first number is - ', Num_1)
+except ValueError:
+    print('Невірний тип даних')
+
+try:
+    Num_2 = float(input('Enter second number: '))
+except
+
 Operation = input('Enter the operation: ')
 
 if Operation == '+' :
