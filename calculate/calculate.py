@@ -1,9 +1,9 @@
 while True:
     try:
         Num_1 = float(input('Enter first number: '))
-        break
         print('Your first number is - ', Num_1)
-        
+        break
+
     except ValueError:
         print('Невірний тип даних')
 
@@ -11,8 +11,8 @@ while True:
 while True:
     try:
         Num_2 = float(input('Enter second number: '))
-        break
         print('Your second number is - ', Num_2)
+        break
 
     except ValueError:
         print('Невірний тип даних')
