@@ -20,7 +20,7 @@ else:
     print('Not realised') 
 
 
-print('Thanks for your used my penis')
+print('Thanks for your used my calculate')
 
 
 
