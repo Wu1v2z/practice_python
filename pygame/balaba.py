@@ -10,6 +10,8 @@ running = True
 
 while running:
 
+    screen.fill((114, 157, 224))
+
     pygame.display.update()
 
     for event in pygame.event.get():
